@@ -23,7 +23,7 @@ const Home: NextPage = () => {
         <title>Builderz xNFT Scaffold</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className='w-full flex flex-col justify-center items-center mt-10'>
+      <div className='w-full flex flex-col justify-center items-center mt-2 md:mt-10'>
         <div className="bg-gradient-to-br from-black to-matte-black m-3 px-3 py-8 mb-40 md:mb-0 rounded-lg shadow-xl shadow-black">
           <div className="flex flex-col justify-center p-2 bg-inherit gap-4">
             <div className='flex flex-row justify-center items-center gap-10'>

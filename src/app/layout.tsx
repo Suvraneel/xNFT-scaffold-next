@@ -24,7 +24,7 @@ const RootLayout = ({
         <html lang="en">
             <body>
                 <AllProvider>
-                    <div className="h-screen w-full flex flex-col bg-gradient-to-br from-black via-black to-matte-black opacity-100 text-white">
+                    <div className="h-full md:h-screen w-full flex flex-col bg-gradient-to-br from-black via-black to-matte-black opacity-100 text-white">
                         <Header /> 
                         <main className="flex-1 p-2">
                             {children}

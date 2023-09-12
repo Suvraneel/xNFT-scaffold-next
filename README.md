@@ -2,20 +2,16 @@
 
 ## NextJS 13 App Router, TypeScript, TailwindCSS, Solana, Web3.js
 
-### Open source [Next.js](https://nextjs.org/) , [Solana](https://github.com/solana-labs ) xNFT Backpack Scaffold for the community and whole ecosystem - without much fluff and just the essentials. 💪
+**Open source [Next.js](https://nextjs.org/) , [Solana](https://github.com/solana-labs ) xNFT Backpack Scaffold for the community and whole ecosystem - without much fluff and just the essentials. 💪**
 
-    
-<br/>
-<div>
-  <img align="left" width="1000px" src="https://github.com/Suvraneel/xNFT-scaffold-next/assets/63473496/9a6a8e70-38e2-40b8-a881-6cd1dfe27254"/>
-  <img align="right" width="300px" src="https://github.com/Suvraneel/xNFT-scaffold-next/assets/63473496/ec0911c7-252f-4615-9439-913abc93ac22"/>
-</div>
-<br/>  
+<img width="1000px" src="https://github.com/Suvraneel/xNFT-scaffold-next/assets/63473496/9a6a8e70-38e2-40b8-a881-6cd1dfe27254"/>
+
   
-  
-<h3> Feel free to use it as a starting point for your next Solana project </h3>
+### Feel free to use it as a starting point for your next Solana project </h3>
 
 Also feel free to send us feedback, open an issue or even PR and contribute by creating your own components, refactoring or other improvements.
+
+<img align="right" width="300px" src="https://github.com/Suvraneel/xNFT-scaffold-next/assets/63473496/ec0911c7-252f-4615-9439-913abc93ac22"/>  
 
 ## Getting Started
 
